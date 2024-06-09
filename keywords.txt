@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For MIDIUSB_ESP32
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+USBSERIAL_CH32	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin		KEYWORD2
+end		    KEYWORD2
+peek		KEYWORD2
+read		KEYWORD2
+write		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
